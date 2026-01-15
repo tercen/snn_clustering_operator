@@ -8,8 +8,8 @@
 
 Input projection|.
 ---|---
-`x-axis`        | character, cell ID
-`row names`     | character, principal component name
+`row`           | character, principal component name (variables)
+`col`           | character, cell ID (observations)
 `y-axis`        | numeric, principal component value
 
 
